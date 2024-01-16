@@ -6,8 +6,6 @@ import icon3 from "../assets/images/resources/crypto2-128x.png";
 import icon2 from "../assets/images/resources/bitcoin-128x.png";
 import icon1 from "../assets/images/resources/crypto-128x.png";
 
-
-
 const Services = () => {
   return (
     <section className="sd-service" id="features">
