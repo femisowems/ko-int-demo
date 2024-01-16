@@ -1,4 +1,4 @@
-prep int demo for KOHO </br>
+prep int demo for KO..HO.. </br>
 
 -- nvm use 14 </br>
 -- npm install </br>
